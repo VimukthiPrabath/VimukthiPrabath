@@ -62,7 +62,7 @@
     bg_color=#808080/></p>
 
 <br>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VimukthiPrabath&show_icons=true&locale=en" alt="Kosa" /></p>
 
 <br>
 
